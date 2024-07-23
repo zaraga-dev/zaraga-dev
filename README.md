@@ -21,6 +21,6 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrza&show_icons=true&locale=en&layout=compact" alt="agrza" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrza&" alt="agrza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrza&show_icons=true&locale=en&layout=compact" alt="agrza" />
 </p>
