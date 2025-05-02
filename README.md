@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Agarz4</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h3 align="center">A fullstack developer from México</h3>
 
 <p align="left"> <a href="https://twitter.com/agarza1916" target="blank"><img src="https://img.shields.io/twitter/follow/agarza1916?logo=twitter&style=for-the-badge" alt="agarza1916" /></a> </p>
 
-- 🔭 I’m currently working on [Firebase notifications for Maui -Net 8.0](https://github.com/Agarz4/APH.Maui.Firebase)
+- 🔭 I’m currently working on [Weather App](https://github.com/Agarz4/zaraga.weather)
 
 - 🌱 I’m currently learning **Python**
-
+- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
