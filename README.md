@@ -2,9 +2,8 @@
 <h3 align="center">Mexican Fullstack developer</h3>
 
 - 🔭 I’m currently working on [Weather App](https://github.com/Agarz4/zaraga.weather)
-
 - 🌱 I’m currently learning **Python**
-- 
+
 
 <h3 align="left">Languages and Tools that I Use:</h3>
 <p align="left">
