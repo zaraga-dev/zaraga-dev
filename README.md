@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agarz4</h1>
 <h3 align="center">Mexican Fullstack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/agarza1916" target="blank"><img src="https://img.shields.io/twitter/follow/agarza1916?logo=twitter&style=for-the-badge" alt="agarza1916" /></a> </p>
+<p align="left"> <a href="https://www.threads.com/@angel_g_garza" target="blank"><img src="https://img.shields.io/twitter/follow/agarza1916?logo=twitter&style=for-the-badge" alt="agarza1916" /></a> </p>
 
 - 🔭 I’m currently working on [Weather App](https://github.com/Agarz4/zaraga.weather)
 
