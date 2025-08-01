@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Agarz4</h1>
+<h1 align="center">Let me introduce myself I'm zaraga</h1>
 <h3 align="center">Mexican Fullstack developer</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Agarz4/zaraga.weather)
+- 🔭 I’m currently working on [Weather App](https://github.com/zaraga-dev/zaraga.weather)
 - 🌱 I’m currently learning **Python**
 
 
